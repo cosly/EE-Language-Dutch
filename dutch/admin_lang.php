@@ -309,7 +309,7 @@ $lang = array(
 'Schakel CAPTCHAs voor Tell-a-Friend en Contact e-mails in',
 
 'sql_good_query' => 
-'Uw query is succesvol uitgevoerd',
+'Je query is succesvol uitgevoerd',
 
 'must_submit_number' => 
 'U moet het aantal dagen invoeren om de pruning routine te kunnen gebruiken',
