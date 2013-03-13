@@ -78,7 +78,7 @@ $lang = array(
 'Maling Lijst voorkeuren',
 
 'mailinglist_notify' => 
-'Ontvangerslijst voor een mededeling van nieuwe mailing lijst inschrijvingen inschakelen',
+'Ontvangerslijst voor een mededeling van niejee mailing lijst inschrijvingen inschakelen',
 
 'mailinglist_enabled' => 
 'Mailing Lijst is Ingeschakeld',
@@ -291,13 +291,13 @@ $lang = array(
 'Maximaal aantal te cachen URIs',
 
 'max_caches_explanation' => 
-'Als u uw pagina&#39;s of database cached, zal deze voorkeur het totaal aantal te cachen pagina&#39;s limiteren om te voorkomen dat uw cache bestanden te veel ruimte in beslag nemen. 150 is een mooi aantal voor een kleine site. Als u een grote site hebt en geen problemen met schijfruimte hebt kunt u het hoger zetten (boven de 300). We hebben een interne limiet van 1000 ingesteld, ongeacht uw voorkeur.',
+'Als je je pagina&#39;s of database cached, zal deze voorkeur het totaal aantal te cachen pagina&#39;s limiteren om te voorkomen dat je cache bestanden te veel ruimte in beslag nemen. 150 is een mooi aantal voor een kleine site. Als u een grote site hebt en geen problemen met schijfruimte hebt kunt u het hoger zetten (boven de 300). We hebben een interne limiet van 1000 ingesteld, ongeacht je voorkeur.',
 
 'standby_recount' => 
 'Hertellen.... even geduld aub...',
 
 'theme_folder_url' => 
-'URL naar uw &#34;themes&#34; map',
+'URL naar je &#34;themes&#34; map',
 
 'exp_forums' => 
 'Forum Statistieken',
@@ -324,7 +324,7 @@ $lang = array(
 'Deze channel naam is al in gebruik.',
 
 'no_members_matched' => 
-'Er zijn geen leden accounts die aan uw criteria voldoen',
+'Er zijn geen leden accounts die aan je criteria voldoen',
 
 'good_member_pruning' => 
 '%x leden accounts zijn verwijderd',
@@ -360,7 +360,7 @@ $lang = array(
 'Weet u zeker dat u de gespecificeerde channel berichten wilt verwijderen?',
 
 'no_entries_matched' => 
-'Er zijn geen channel berichten die aan uw criteria voldoen',
+'Er zijn geen channel berichten die aan je criteria voldoen',
 
 'good_entry_pruning' => 
 '%x channel berichten zijn verwijderd',
@@ -375,7 +375,7 @@ $lang = array(
 'Verwijder reacties die ouder zijn dan X dagen oud',
 
 'no_comments_matched' => 
-'Er zijn geen reacties die aan uw criteria voldoen',
+'Er zijn geen reacties die aan je criteria voldoen',
 
 'good_commennt_pruning' => 
 '%x reacties zijn verwijderd',
@@ -408,7 +408,7 @@ $lang = array(
 'Weet u zeker dat u de gespecificeerde forum topics wilt verwijderen?',
 
 'no_topics_matched' => 
-'Er zijn geen topics die aan uw criteria voldoen',
+'Er zijn geen topics die aan je criteria voldoen',
 
 'select_prune_topics' => 
 'Verwijder alleen binnen de geselecteerde forums',
@@ -576,7 +576,7 @@ $lang = array(
 'Maximaal aantal refferers die bewaard moeten worden',
 
 'new_version_check' => 
-'Automatische check voor nieuwe Versie',
+'Automatische check voor niejee Versie',
 
 'profile_buttons' => 
 'Pad naar de Leden Afbeeldingen',
@@ -609,7 +609,7 @@ $lang = array(
 'Niet mogelijk de plugin te benaderen.',
 
 'plugin_folder_not_writable' => 
-'Uw plugin map is niet beschrijfbaar.  De permissies voor de map moeten op 777 gezet moeten worden voordat deze actie uitgevoerd kan worden.',
+'je plugin map is niet beschrijfbaar.  De permissies voor de map moeten op 777 gezet moeten worden voordat deze actie uitgevoerd kan worden.',
 
 'plugin_problem_creating_file' => 
 'Niet mogelijk om een lokale versie van deze plugin te maken',
@@ -636,7 +636,7 @@ $lang = array(
 'De plugin is succesvol ge&#239;nstalleerd',
 
 'plugin_install_other' => 
-'Het plugin bestand is opgeslagen in uw plugin map.',
+'Het plugin bestand is opgeslagen in je plugin map.',
 
 'plugin_error_uncompress' => 
 'Niet mogelijk om het ZIP bestand uit te pakken. Het ZIP bestand is opgeslagen in de plugin directory.',
@@ -732,7 +732,7 @@ $lang = array(
 'Handmatig',
 
 'new_posts_clear_caches' => 
-'Leeg alle caches als er een nieuw bericht geplaatst wordt.',
+'Leeg alle caches als er een nieje bericht geplaatst wordt.',
 
 'require_ip_for_posting' => 
 'Verplicht gebruiker om IP Adres en User Agent te hebben om reactie te plaatsen?',
@@ -813,7 +813,7 @@ $lang = array(
 'Algemene Configuratie',
 
 'allow_member_registration' => 
-'Nieuwe leden registraties toestaan?',
+'Niejee leden registraties toestaan?',
 
 'req_mbr_activation' => 
 'Activatie van een lid-account vereist?',
@@ -843,7 +843,7 @@ $lang = array(
 'Lidmaatschap Captcha Inschakelen',
 
 'new_member_notification' => 
-'Laat de administrators weten wanneer er nieuwe registraties zijn?',
+'Laat de administrators weten wanneer er niejee registraties zijn?',
 
 'mbr_notification_emails' => 
 'E-mail adres voor het bericht',
@@ -855,7 +855,7 @@ $lang = array(
 '&#39;E-mail Mogelijkheid&#39; Tijdslot',
 
 'email_console_timelock_exp' => 
-'Het aantal minuten dat een lid moet wachten om weer een nieuwe e-mail te kunnen versturen.  Let op:  Dit geldt alleen voor de &#39;E-mail mogelijkheid&#39; in de leden-profiel pagina.',
+'Het aantal minuten dat een lid moet wachten om weer een niejee e-mail te kunnen versturen.  Let op:  Dit geldt alleen voor de &#39;E-mail mogelijkheid&#39; in de leden-profiel pagina.',
 
 'log_email_console_msgs' => 
 'Log &#39;E-mail mogelijkheid&#39; Berichten',
@@ -864,7 +864,7 @@ $lang = array(
 'Deze voorkeur logt alle berichten die zijn verstuurd via de &#39;E-mail Mogelijkheid&#39; in de leden-profiel pagina.',
 
 'default_member_group' => 
-'Standaard Ledengroep waarin nieuwe leden worden geplaatst',
+'Standaard Ledengroep waarin niejee leden worden geplaatst',
 
 'group_assignment_defaults_to_two' => 
 'Wanneer u account-activatie vereist, zullen ze aan deze groep worden toegevoegd totdat ze geactiveerd zijn',
@@ -921,7 +921,7 @@ $lang = array(
 'De tijd dat een account geblokkeerd moet zijn',
 
 'login_interval_explanation' => 
-'Het aantal is aangegeven in minuten. U kunt deze tot 1 decimaal nauwkeurig achter de komma instellen. Bijvoorbeeld:  1.5',
+'Het aantal is aangegeven in minuten. U kunt deze tot 1 decimaal najekeurig achter de komma instellen. Bijvoorbeeld:  1.5',
 
 'require_ip_for_login' => 
 'IP-adres en User-Agent vereist om in te loggen?',
@@ -963,10 +963,10 @@ $lang = array(
 'Met verplichte slash',
 
 'site_url' => 
-'URL naar de hoofd map van uw website',
+'URL naar de hoofd map van je website',
 
 'url_explanation' => 
-'Dit is de map die de index file bevat van uw website',
+'Dit is de map die de index file bevat van je website',
 
 'doc_url' => 
 'URL naar de Documentatie Map',
@@ -975,16 +975,16 @@ $lang = array(
 'Hoofd map alleen, met slash',
 
 'site_index' => 
-'Naam van de index pagina van uw website',
+'Naam van de index pagina van je website',
 
 'system_path' => 
-'Absolute pad naar uw %x map',
+'Absolute pad naar je %x map',
 
 'force_query_string' => 
 'Force URL query strings',
 
 'safe_mode' => 
-'Loopt PHP op uw server op dit moment in de Safe Mode?',
+'Loopt PHP op je server op dit moment in de Safe Mode?',
 
 'force_query_string_explanation' => 
 'Dit is een veiligheidsmechanisme voor servers die niet de PATH_INFO variabele ondersteunen.',
@@ -993,7 +993,7 @@ $lang = array(
 'Fout opsporing Voorkeuren',
 
 'debug_explanation' => 
-'Zorgt er voor dat foutmeldingen zichtbaar worden. Handig als u bezig bent met ontwikkeling van uw website',
+'Zorgt er voor dat foutmeldingen zichtbaar worden. Handig als u bezig bent met ontwikkeling van je website',
 
 'show_profiler' => 
 'Output Profiler Tonen?',
@@ -1023,7 +1023,7 @@ $lang = array(
 'GZIP Output inschakelen?',
 
 'gzip_output_explanation' => 
-'Indien ingeschakeld, zal uw website in een gecomprimeerd formaat zichtbaar zijn voor een snellere laadtijd',
+'Indien ingeschakeld, zal je website in een gecomprimeerd formaat zichtbaar zijn voor een snellere laadtijd',
 
 'send_headers' => 
 'Genereer HTTP Page Headers?',
@@ -1068,7 +1068,7 @@ $lang = array(
 'Cookie Domein',
 
 'cookie_domain_explanation' => 
-'Gebruik .uwdomein.nl voor &#39;cookies over de hele website&#39;',
+'Gebruik .jedomein.nl voor &#39;cookies over de hele website&#39;',
 
 'cookie_prefix' => 
 'Cookie Voorvoegsel',
@@ -1086,7 +1086,7 @@ $lang = array(
 'Afbeelding Verklein Protocol',
 
 'image_resize_protocol_exp' => 
-'Controleer samen met uw hosting provider of uw server in staat is het gebruikte protocol te gebruiken',
+'Controleer samen met je hosting provider of je server in staat is het gebruikte protocol te gebruiken',
 
 'image_library_path' => 
 'Afbeelding Verzameling pad',
@@ -1143,7 +1143,7 @@ $lang = array(
 'Wilt u de Batch Mode gebruiken?',
 
 'batchmode_explanation' => 
-'Batch Mode zal grote mailings splitsen in kleinere groepjes, die gedeeltelijk verstuurd zullen worden.  Aanbevolen als uw site gehost wordt op een shared-hosting account.',
+'Batch Mode zal grote mailings splitsen in kleinere groepjes, die gedeeltelijk verstuurd zullen worden.  Aanbevolen als je site gehost wordt op een shared-hosting account.',
 
 'email_batch_size' => 
 'Aantal E-mails per Batch',
@@ -1155,7 +1155,7 @@ $lang = array(
 'Antwoord e-mail adres voor automatisch gegenereerde e-mails',
 
 'return_email_explanation' => 
-'Als u dit veld leeg laat, zullen veel e-mailservers uw mail als spam markeren.',
+'Als u dit veld leeg laat, zullen veel e-mailservers je mail als spam markeren.',
 
 'php_mail' => 
 'PHP Mail',
@@ -1395,16 +1395,16 @@ $lang = array(
 'U moet de tabellen selecteren om deze actie uit te voeren',
 
 'unsupported_compression' => 
-'Uw PHP installatie ondersteund niet deze compressie methode',
+'je PHP installatie ondersteund niet deze compressie methode',
 
 'backup_info' => 
-'Gebruik dit formulier om een back-up van uw database te maken',
+'Gebruik dit formulier om een back-up van je database te maken',
 
 'save_as_file' => 
-'Bewaar SQL backup op uw bureaublad',
+'Bewaar SQL backup op je bureaublad',
 
 'view_in_browser' => 
-'Bekijk SQL backup in uw browser',
+'Bekijk SQL backup in je browser',
 
 'sql_query_instructions' => 
 'Gebruik dit formulier om een SQL Query in te voeren',
@@ -1437,7 +1437,7 @@ $lang = array(
 'Voorkeuren gewijzigd',
 
 'click_to_recount' => 
-'Klik om de rijen %x t/m %y opnieuw te tellen',
+'Klik om de rijen %x t/m %y opnieje te tellen',
 
 'items_remaining' => 
 'Records te gaan:',
@@ -1521,7 +1521,7 @@ $lang = array(
 'Vertaal Programma',
 
 'translation_dir_unwritable' => 
-'Waarschuwing: De &#39;Translation&#39; map is niet schrijfbaar.',
+'Waarschjeing: De &#39;Translation&#39; map is niet schrijfbaar.',
 
 'please_set_permissions' => 
 'Zet de &#39;permissions&#39; op 666 of 777 van de volgende map:',
@@ -1548,7 +1548,7 @@ $lang = array(
 'Vooraf gedefinieerde HTML knop toevoegen',
 
 'add_new_html_button' => 
-'Nieuwe HTML toevoegen',
+'Niejee HTML toevoegen',
 
 'import_from_mt' => 
 'Movable Type Importeer Programma',
@@ -1605,7 +1605,7 @@ $lang = array(
 'Laat Template Debuggen zien?',
 
 'template_debugging_explanation' => 
-'Indien ingeschakeld, Super Admins zullen een lijst zien met details die betrekking hebben op het opbouwen van de pagina. Handig voor het debuggen.',
+'Indien ingeschakeld, Super Admins zullen een lijst zien met details die betrekking hebben op het opbojeen van de pagina. Handig voor het debuggen.',
 
 'view_throttle_log' => 
 'Bekijk Throttle Log',
